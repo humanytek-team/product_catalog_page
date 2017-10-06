@@ -4,7 +4,7 @@
 
 {
     'name': 'Add field "Catalog Page" to products.',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Product',
     'summary': 'Adds field "Catalog Page" to products.',
     'author': 'Humanytek',
@@ -12,7 +12,7 @@
     'license': 'AGPL-3',
     'depends': ['product', ],
     'data': [
-        'views/product_view.xml',        
+        'views/product_view.xml',
     ],
     'installable': True,
     'auto_install': False
